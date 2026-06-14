@@ -1,0 +1,13 @@
+Watching for file changes with StatReloader
+[03/Jun/2026 11:13:45] "GET / HTTP/1.1" 302 0
+[03/Jun/2026 11:13:45,497] - Broken pipe from ('127.0.0.1', 63520)
+[03/Jun/2026 11:14:24] "GET / HTTP/1.1" 200 9671
+[03/Jun/2026 11:14:24] "GET /static/billing/css/app.css HTTP/1.1" 304 0
+[03/Jun/2026 11:14:24] "GET /static/billing/js/app.js HTTP/1.1" 304 0
+[03/Jun/2026 11:14:24] "GET /static/billing/js/dashboard.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[03/Jun/2026 11:14:25] "GET /favicon.ico HTTP/1.1" 404 8523
+E:\PRAJAN\BillingProject\billing\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\PRAJAN\BillingProject\billing\views.py changed, reloading.
+Watching for file changes with StatReloader
